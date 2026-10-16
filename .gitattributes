@@ -1,0 +1,6 @@
+# 仓库内统一换行符；二进制文件自动识别
+* text=auto
+
+*.sh  text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
