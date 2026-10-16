@@ -1,0 +1,21 @@
+# ===== 编辑器 / IDE =====
+.idea/
+.vs/
+
+# ===== 日志与临时文件 =====
+*.log
+tmp/
+temp/
+
+# ===== Node.js =====
+node_modules/
+dist/
+.env
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 按项目实际技术栈自行增删
